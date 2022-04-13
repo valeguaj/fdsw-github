@@ -5,7 +5,7 @@ body {
 /* Hero Section */
 
 #Hero-Section {
-  background-image: url("../img/bg-hero.jpg");
+  background-image: url("../img/Foto_Curriculum.jpeg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: left;
@@ -18,6 +18,16 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
+}
+
+/* tamaño logo*/
+.logo img{
+  width: 30%;
+  height: 30%;
+}
+
+.introduccion{
+  text-align: left;
 }
 
 /* Contacto */
