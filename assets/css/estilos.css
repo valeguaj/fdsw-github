@@ -60,3 +60,12 @@ body {
   }
 
 }
+
+.datosPersonales td{
+  text-align: left;
+  padding-left: 10px;
+}
+
+#estudios {
+  padding-top: 50px;
+}
