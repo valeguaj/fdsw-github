@@ -30,6 +30,17 @@ body {
   text-align: left;
 }
 
+.lista1 ul{
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+
+/*.lista1 li{
+  text-align: center;
+  display: inline-block;
+}*/
+
 /* Contacto */
 
 #Contacto form label {
